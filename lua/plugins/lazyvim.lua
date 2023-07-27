@@ -142,7 +142,10 @@ return {
     opts = {
       ensure_installed = {
         "bash",
+        "dockerfile",
+        "dart",
         "html",
+        "css",
         "javascript",
         "json",
         "lua",
